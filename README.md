@@ -18,7 +18,7 @@ what is the appearance of our virtual flesh, in a virtual community where we sha
 
 ### you can see a video trailer on [youtube](https://youtu.be/eXyQ1BjkHkc)
 
-- *the artists represented at the gallery are:
+## the artists represented at the gallery are:
 
 - [david plastique](https://www.facebook.com/davidplastiqueofficial/)
 
