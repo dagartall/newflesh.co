@@ -3,35 +3,17 @@
 The pavilion of the NewFlesh2.0, invites to a unique philosophical and virtual experience, to define and to explore the appearance of our digital epidermis, in a world where we share our thoughts and emotions in a dematerialized way, we have to define our image in this virtuality 
 this experience takes place in the form of an interactive application, you can move your virtual entity in this minimalist world and observe the works of art represented
 
-### connect between artist on [facebook](https://www.facebook.com/NewFlesh2.0/) and event...
+### connect between artist on [new_flesh_2.0 page](https://www.facebook.com/NewFlesh2.0/) and event...
 
-At the heart of the Wrong biennale, the artist is invited to define his vision of the virtual flesh, place of sharing of emotions and thoughts, of digital representation of our psyche, we invite you in this pavilion to the representality of the epidermis of the virtual being of this new era, the selected works will be exhibited in our interactive virtual gallery, soon online, you can send your works on new-flesh 2.0 [mail](gemu0flesh@gmail.com) the works can be art, poetics, lyrics,music, video art performances and of course on digital format 
+At the heart of [the Wrong biennale](https://www.facebook.com/thewrongbiennale/), the artist is invited to define his vision of the virtual flesh, place of sharing of emotions and thoughts, of digital representation of our psyche, we invite you in this pavilion to the representality of the epidermis of the virtual being of this new era, the selected works will be exhibited in our interactive virtual gallery, soon online, you can send your works on new-flesh 2.0 [mail](gemu0flesh@gmail.com) the works can be art,poetics,painting,lyrics,music,design,architecture,sculpture,video art performances and of course on digital format and analogical by the way...
 
-# support and download the application art gallery:
+### support and download the application art gallery on [itch.io](https://gemu1.itch.io/new-flesh)
 
 
+what is the appearance of our virtual flesh, in a virtual community where we share our emotions and our mind how we define our virtual flesh, this experience invites artists to define this vision which is the subject of the individual in the community where he evolved
 
-# Header 1
-## Header 2
-### Header 3
+- use the arrow keys to move and the mouse to see the environnement world 
 
-- Bulleted
-- List
+- esc for quit
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dagartall/newflesh.co/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### you can see a video trailer on [youtube](https://youtu.be/eXyQ1BjkHkc)
