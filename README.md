@@ -17,3 +17,27 @@ what is the appearance of our virtual flesh, in a virtual community where we sha
 - esc for quit
 
 ### you can see a video trailer on [youtube](https://youtu.be/eXyQ1BjkHkc)
+
+- *the artists represented at the gallery are:
+
+- [david plastique](https://www.facebook.com/davidplastiqueofficial/)
+
+- [zen materia](https://www.facebook.com/zenmateria/)
+
+- [piero chiariello](http://www.pierochiariello.it/portfolio.html)
+
+- [david godefroy](https://david-godefroy.com)
+
+- River Sound - ( O.S.T music performance on the art gallery )
+
+- [Treesekltown](https://www.facebook.com/Treeskeltown/)
+
+- [Ruux Mu](https://www.facebook.com/RuuxMuOfficial/)
+
+- [Mooname](https://mooname.deviantart.com)
+
+- [Birgit S Hansen](https://www.facebook.com/birsalha)
+
+- and more come soon...
+
+
