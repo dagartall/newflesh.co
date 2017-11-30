@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to New_Flesh_2.0
 
-You can use the [editor on GitHub](https://github.com/dagartall/newflesh.co/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The pavilion of the NewFlesh2.0, invites to a unique philosophical and virtual experience, to define and to explore the appearance of our digital epidermis, in a world where we share our thoughts and emotions in a dematerialized way, we have to define our image in this virtuality 
+this experience takes place in the form of an interactive application, you can move your virtual entity in this minimalist world and observe the works of art represented
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### connect between artist on [facebook](https://www.facebook.com/NewFlesh2.0/) and event...
 
-### Markdown
+At the heart of the Wrong biennale, the artist is invited to define his vision of the virtual flesh, place of sharing of emotions and thoughts, of digital representation of our psyche, we invite you in this pavilion to the representality of the epidermis of the virtual being of this new era, the selected works will be exhibited in our interactive virtual gallery, soon online, you can send your works on new-flesh 2.0 [mail](gemu0flesh@gmail.com) the works can be art, poetics, lyrics,music, video art performances and of course on digital format 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# support and download the application art gallery:
 
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
