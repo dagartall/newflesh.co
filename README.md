@@ -27,7 +27,7 @@ what is the appearance of our virtual flesh, in a virtual community where we sha
 
 - esc for quit
 
-### you can see a video trailer on [youtube](https://youtu.be/eXyQ1BjkHkc)
+### you can see a video trailer on [youtube](https://youtu.be/eA7979_-CiE)
 
 ## the artists represented at the gallery are:
 
