@@ -37,8 +37,6 @@ what is the appearance of our virtual flesh, in a virtual community where we sha
 
 - [piero chiariello](http://www.pierochiariello.it/portfolio.html)
 
-- [david godefroy](https://david-godefroy.com)
-
 - River Sound - ( O.S.T music performance on the art gallery )
 
 - [Treesekltown](https://www.facebook.com/Treeskeltown/)
