@@ -12,11 +12,10 @@ At the heart of [the Wrong biennale](https://www.facebook.com/thewrongbiennale/)
 
 - first and if you want to make the installation of the gallery more easy install the [itch.io app](https://itch.io/app)
 
-- in a second time register an account in the app or on the website : https://itch.io/register
+- in a second time register an account in the app or on the [itch.io website](https://itch.io/register)
 
-### and third support and download the application art gallery on [itch.io](https://gemu1.itch.io/new-flesh)
+### and third download the application art gallery on [itch.io](https://gemu1.itch.io/new-flesh)
 
-<iframe width="552" frameborder="0" height="167" src="https://itch.io/embed/187463"></iframe>
 
 
 ## the user in a philosophical game :
