@@ -9,9 +9,14 @@ At the heart of [the Wrong biennale](https://www.facebook.com/thewrongbiennale/)
 
 ## you can send your works on new-flesh 2.0 mail: 
 
- [contact me](mailto:gemu0flesh@gmail.com)
+ 
+ #[contact me](mailto:gemu0flesh@gmail.com)
 
-the works can be art,poetics,painting,lyrics,music,design,architecture,sculpture,video art performances and of course on digital format and analogical by the way...
+Your works can be:
+
+art,poetics,painting,lyrics,music,design,architecture,sculpture,video,performances...
+
+and of course on digital format and analogical by the way...
 
 ### installation instruction ( you can go to the third directly )
 
