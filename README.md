@@ -7,10 +7,10 @@ this experience takes place in the form of an interactive application, you can m
 
 At the heart of [the Wrong biennale](https://www.facebook.com/thewrongbiennale/), the artist is invited to define his vision of the virtual flesh, place of sharing of emotions and thoughts, of digital representation of our psyche, we invite you in this pavilion to the representality of the epidermis of the virtual being of this new era, the selected works will be exhibited in our interactive virtual gallery online.
 
-## you can send your works on new-flesh 2.0 mail: 
+### you can send your works on new-flesh 2.0  
 
  
- #[contact me](mailto:gemu0flesh@gmail.com)
+  [mail to gallery](mailto:gemu0flesh@gmail.com)
 
 Your works can be:
 
