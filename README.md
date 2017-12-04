@@ -63,6 +63,7 @@ what is the appearance of our virtual flesh, in a virtual community where we sha
 
 ---
 
-this philosophical game was created with Blender software under GNU GPL [license](https://www.blender.org/about/license/)
+Blender is a registered trademark (®) of the Blender Foundation in EU and USA. The Blender logo itself is a property of the Blender Foundation. The logo and the brand name “Blender” are not part of the GNU GPL, and can only be used commercially by the Blender Foundation on products, websites, and publications.
+this game was created with Blender software under GNU GPL [license](https://www.blender.org/about/license/)
 
 
