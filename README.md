@@ -10,7 +10,7 @@ At the heart of [the Wrong biennale](https://www.facebook.com/thewrongbiennale/)
 ### you can send your works on new-flesh 2.0  
 
  
-  [mail to gallery](mailto:gemu0flesh@gmail.com)
+  [mail to the gallery](mailto:gemu0flesh@gmail.com)
 
 Your works can be:
 
@@ -60,5 +60,9 @@ what is the appearance of our virtual flesh, in a virtual community where we sha
 - [Raguamont L'éstrange](https://www.facebook.com/Raguamont-Léstrange-567906483310129/)
 
 - and more come soon...
+
+---
+
+this philosophical game was created with Blender software under GNU GPL [license](https://www.blender.org/about/license/)
 
 
