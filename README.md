@@ -59,7 +59,9 @@ what is the appearance of our virtual flesh, in a virtual community where we sha
 
 - [Raguamont L'éstrange](https://www.facebook.com/Raguamont-Léstrange-567906483310129/)
 
-- and more come soon...
+- [B.Ajay Sharma](https://2bajaysharma.wordpress.com)
+
+- and more come soon...with regular OPEN CALL...
 
 ---
 
